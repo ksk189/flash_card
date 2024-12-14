@@ -3,6 +3,12 @@
 A simple, intuitive, and efficient Flashcards application built with Flutter. This app allows users to create, edit, delete, and organize flashcards for effective learning and memorization.
 
 
+# 📱 APK Download
+https://drive.google.com/file/d/1nduZBlgJQgIhb4JXsKDHpnBAWtl-oFhA/view?usp=sharing
+
+
+
+
 🌟 Features
 	•	Create personalized flashcards with a question and an answer.
 	•	Edit existing flashcards to update information.
